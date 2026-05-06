@@ -1,7 +1,8 @@
 # 💫 About Me:
 Faith Here,
 A software engineer.
-Currently working on Volunteer Connect and a smart waste classifier project.<br><br>I’m looking to collaborate on Arduino-based projects, AI/ML, and automations—especially those solving real-world problems.<br><br>I’m still learning AI/ML, so I’m always open to learning, building, and connecting. Feel free to reach out or ask me about what I’m working on.<br>
+<br><br>
+Currently working on Volunteer Connect and a smart waste classifier project.<br><br>I’m looking to collaborate on Arduino-based projects, AI/ML, and automations—especially those solving real-world problems.<br><br>I’m still learning AI/ML, so I’m always open to learning, building, and connecting. <br><br>Feel free to reach out or ask me about what I’m working on.<br>
 
 
 ## 🌐 Socials:
